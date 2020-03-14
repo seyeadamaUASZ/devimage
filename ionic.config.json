@@ -1,5 +1,7 @@
 {
   "name": "devimage",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
